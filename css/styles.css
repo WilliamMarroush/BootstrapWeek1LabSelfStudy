@@ -1,1 +1,19 @@
 /* Add custom css styles here */
+header{
+    background-image: url("/images/coffee-biscuits.jpg") ;
+    background-repeat: no-repeat;
+    background-size:100%;
+    color:#b3935a;
+    height:400px;
+}
+.headerdiv{
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items:center;
+    width:90%;
+    max-width:650px;
+    height:70%;
+    margin: 0 auto;
+    background-color:#00000025;
+}
